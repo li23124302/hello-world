@@ -3,7 +3,7 @@ aaa
 2
 3
 del dev4
-dev5
+del dev5
 del master6
 dev7
 master8
